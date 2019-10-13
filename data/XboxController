@@ -1,0 +1,9 @@
+control the volumes
+rotateX	girar respecto al eje x	3	SLIDER	Eje X	0	1.0	0.0
+rotateY	girar respecto al eje y	3	SLIDER	Eje Y	0	1.0	0.0
+zoom	zoom o para translate Z idk	3	SLIDER	Rotación Y	0	1.0	0.0
+A	button A	1	BUTTON	Botón 0	0	0.0	0.0
+B	button B	1	BUTTON	Botón 1	0	0.0	0.0
+Start	para desplegar el menu options	1	BUTTON	Botón 7	0	0.0	0.0
+info	para desplegar la info	1	BUTTON	Botón 6	0	0.0	0.0
+navigation	navigation keys	2	HAT	cooliehat: Botón del control	0	1.0	0.0
