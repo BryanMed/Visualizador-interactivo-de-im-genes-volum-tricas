@@ -6,4 +6,9 @@ En este proyecto, es posible visualizar imágenes volumetricas de manera interac
 * color
 * transparencia
 
-![imagen1](https://github.com/BryanMed/Visualizador-interactivo-de-im-genes-volum-tricas/visualizador.PNG)
+
+![visualizador]({{ site.baseurl }}/images/visualizador.PNG)
+
+![craneo]({{ site.baseurl }}/images/craneo.PNG)
+
+![craneo]({{ site.baseurl }}/images/kinect.PNG)
