@@ -7,8 +7,8 @@ En este proyecto, es posible visualizar imágenes volumetricas de manera interac
 * transparencia
 
 
-![visualizador]({{ site.baseurl }}/images/visualizador.PNG)
+![visualizador](visualizador.PNG)
 
-![craneo]({{ site.baseurl }}/images/craneo.PNG)
+![craneo](craneo.PNG)
 
-![craneo]({{ site.baseurl }}/images/kinect.PNG)
+![kinect](kinect.PNG)
